@@ -1,0 +1,32 @@
+html{
+
+text-align: center;
+
+}
+
+h1{
+	color: red;
+}
+
+h3{
+
+	color: blue;
+}
+
+.image{
+
+	height: 100%;
+	weight: 100%;
+}
+
+img {
+	padding: 10px;
+	margin-right : 50px;
+}
+
+#one{
+	margin:10px;
+	margin-top: 0px;
+	padding: 10px
+	padding-top:0px;
+}
